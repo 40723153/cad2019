@@ -25,8 +25,14 @@
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20200109194059.1"><vh>solve space編譯</vh>
+<v t="leo.20200109194059.2"><vh>solve space編譯</vh></v>
+</v>
+<v t="leo.20180902120523.14"><vh>solve space操作</vh>
+<v t="leo.20180902120523.15"><vh>solve space操作</vh></v>
+</v>
+<v t="leo.20200109194325.1"><vh>nx12</vh>
+<v t="leo.20200109194325.2"><vh>nx12</vh></v>
 </v>
 <v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
@@ -91,10 +97,12 @@ Created by [40723153](https://github.com/40723153/cad2019)
 
 						
 </t>
-<t tx="leo.20180902120523.15"># solovespace編譯
+<t tx="leo.20180902120523.15"># solvespace操作
 
-https://youtu.be/39MHWaQZack
-</t>
+### [Solvespace操作](https://youtu.be/nWhRjTaPCmc)
+
+
+&lt;iframe src="https://player.vimeo.com/video/371572488" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -319,5 +327,39 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200109194059.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200109194059.2"># solvespace編譯
+
+### [Solvespace編譯](https://youtu.be/39MHWaQZack)
+
+
+&lt;iframe src="https://player.vimeo.com/video/371572488" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200109194325.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200109194325.2"># nx12
+
+### [nx12原文書翻譯](https://youtu.be/39MHWaQZack)
+
+
+&lt;iframe src="https://player.vimeo.com/video/371572488" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
