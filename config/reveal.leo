@@ -21,18 +21,18 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200109194700.1"><vh>nx12</vh>
+<v t="leo.20200109194700.2"><vh>nx12</vh></v>
+</v>
+<v t="leo.20200109194650.1"><vh>solve space操作</vh>
+<v t="leo.20200109194650.2"><vh>solve space操作</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20200109194059.1"><vh>solve space編譯</vh>
 <v t="leo.20200109194059.2"><vh>solve space編譯</vh></v>
-</v>
-<v t="leo.20180902120523.14"><vh>solve space操作</vh>
-<v t="leo.20180902120523.15"><vh>solve space操作</vh></v>
-</v>
-<v t="leo.20200109194325.1"><vh>nx12</vh>
-<v t="leo.20200109194325.2"><vh>nx12</vh></v>
 </v>
 <v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
@@ -86,23 +86,6 @@ Created by [40723153](https://github.com/40723153/cad2019)
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20180902120523.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180902120523.15"># solvespace操作
-
-### [Solvespace操作](https://youtu.be/nWhRjTaPCmc)
-
-
-&lt;iframe src="https://player.vimeo.com/video/371572488" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -344,7 +327,7 @@ vertical: body pane on the botton</t>
 
 
 &lt;iframe src="https://player.vimeo.com/video/371572488" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20200109194325.1">&lt;section data-markdown&gt;
+<t tx="leo.20200109194650.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -355,7 +338,24 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200109194325.2"># nx12
+<t tx="leo.20200109194650.2"># solvespace操作
+
+### [Solvespace操作](https://youtu.be/nWhRjTaPCmc)
+
+
+&lt;iframe src="https://player.vimeo.com/video/371572488" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200109194700.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200109194700.2"># nx12
 
 ### [nx12原文書翻譯](https://youtu.be/39MHWaQZack)
 
