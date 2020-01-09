@@ -326,7 +326,7 @@ vertical: body pane on the botton</t>
 ### [Solvespace編譯](https://youtu.be/39MHWaQZack)
 
 
-&lt;iframe src="https://player.vimeo.com/video/371572488" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+</t>
 <t tx="leo.20200109194650.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -343,7 +343,7 @@ vertical: body pane on the botton</t>
 ### [Solvespace操作](https://youtu.be/nWhRjTaPCmc)
 
 
-&lt;iframe src="https://player.vimeo.com/video/371572488" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+</t>
 <t tx="leo.20200109194700.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -360,6 +360,6 @@ vertical: body pane on the botton</t>
 ### [nx12原文書翻譯](https://youtu.be/39MHWaQZack)
 
 
-&lt;iframe src="https://player.vimeo.com/video/371572488" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+</t>
 </tnodes>
 </leo_file>
